@@ -14,10 +14,13 @@
   "description": "Live Auction Platform backend with REST API and WebSockets",
   "dependencies": {
     "cors": "2.8.5",
+    "dotenv": "16.5.0",
     "express": "5.1.0",
-    "ws": "8.18.1"
+    "sqlite": "5.1.1",
+    "sqlite3": "5.1.7",
+    "ws": "8.18.2"
   },
   "devDependencies": {
-    "nodemon": "3.1.9"
+    "nodemon": "3.1.10"
   }
 }
